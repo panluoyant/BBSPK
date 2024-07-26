@@ -58,8 +58,8 @@ const db_forums = [
         state: "up",
         createdAt: "2022/07/31",
         updatedAt: "2024/07/26",
-        hasICP: "yes",
-        hasNetSec: "yes",
+        hasICP: "in_progress",
+        hasNetSec: "in_progress",
         note: "新生的MC综合论坛",
         reference: []
     },
