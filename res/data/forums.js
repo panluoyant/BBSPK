@@ -52,6 +52,17 @@ const db_forums = [
             }
         ]
     },
+      {
+        title: "天空府邸我的世界论坛",
+        url: "https://skymansion.cn",
+        state: "up",
+        createdAt: "2022/07/31",
+        updatedAt: "2024/07/26",
+        hasICP: "yes",
+        hasNetSec: "yes",
+        note: "新生的MC综合论坛",
+        reference: []
+    },
     {
         title: "九域资源社区",
         url: "https://bbs.mc9y.net",
